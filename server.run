@@ -1,0 +1,3 @@
+#! /bin/bash
+cd /app
+exec /app/node_modules/.bin/http-server -p 9090 --cors

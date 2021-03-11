@@ -1,0 +1,16 @@
+{
+  "name": "anabik",
+  "version": "1.0.0",
+  "description": "an alternate GUI for querying elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jordan byrd",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "local-cors-proxy": "^1.1.0",
+    "vim-wasm": "^0.0.13"
+  }
+}
